@@ -1,0 +1,2 @@
+git pull
+pip install --quiet -U -r requirements.txt
